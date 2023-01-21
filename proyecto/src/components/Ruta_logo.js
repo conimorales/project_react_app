@@ -4,8 +4,7 @@ import '../styles/Nav.css';
 
 const icon = () => {
     return (
-        <a class="navbar-brand" href="/"> <img src={logo}  alt="logo" class="navbarlog"  /></a>
-
+        <img src={logo}  alt="logo" class="navbarlog"  />
     );
 }
 
