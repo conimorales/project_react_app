@@ -6,3 +6,5 @@ npm i -global create-react-app
 **create-react-app proyecto
 cd proyecto
 npm start
+
+npm run build
