@@ -1,8 +1,10 @@
 import React from 'react';
-// import logo from '../assets/IMG.jfif';
+
 import project from '../pages/projects';
 
-import Icon from './cartwidget.js'
+import Icon from './cartwidget.js';
+
+
 
 const navbar = () => {
     return (
