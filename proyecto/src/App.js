@@ -11,18 +11,19 @@ function App() {
 
     <div className="App">
       <Navbar/>
+      hola
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Inicio
         </p>
-    
+
       </header>
     </div>
-    
 
-    
+
+
 
   );
 }
