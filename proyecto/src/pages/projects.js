@@ -2,7 +2,7 @@ import logo from '../logo.svg';
 import React from 'react';
 import '../App.css';
 
-import Navbar from '../components/navbar'
+import Navbar from '../components/Navbar'
 
 // sugar syntax más ordenado y entendible
 function App() {

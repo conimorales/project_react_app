@@ -2,8 +2,9 @@ import logo from './logo.svg';
 import React from 'react';
 import './App.css';
 
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 
+import Contenedor from './components/componenteContenedor/ComponenteContenedor.js'
 // sugar syntax más ordenado y entendible
 function App() {
   return (
@@ -11,7 +12,9 @@ function App() {
 
     <div className="App">
       <Navbar/>
-      hola
+
+      <Contenedor/>
+      
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

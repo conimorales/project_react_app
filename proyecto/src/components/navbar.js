@@ -2,7 +2,7 @@ import React from 'react';
 
 import project from '../pages/projects';
 
-import Icon from './cartwidget.js';
+import Icon from './Cartwidget.js';
 
 
 
