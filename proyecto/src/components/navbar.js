@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../IMG.jfif';
+import logo from '../assets/IMG.jfif';
 import project from '../pages/projects';
 
 const navbar = () => {
