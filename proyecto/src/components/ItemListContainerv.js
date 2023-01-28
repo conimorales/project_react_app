@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Titulo from '../components/componenteContenedor/ComponenteContenedor.js';
+import Titulo from './componenteContenedor/ComponenteContenedor.js';
 
 
 

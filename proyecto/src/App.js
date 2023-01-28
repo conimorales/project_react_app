@@ -4,8 +4,8 @@ import './App.css';
 
 import {BrowserRouter, Routes, Route } from 'react-router-dom'
 
-import Navbar from './components/Navbar'
-import Inicio from './components/Inicio'
+import Navbar from './components/Navbarv.js'
+import Inicio from './components/Inicio.js'
 // import Contenedor from './components/componenteContenedor/ComponenteContenedor.js'
 
 
