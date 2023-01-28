@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import Icon from './Cartwidgetv.js';
+import Icon from './Cartwidget.js';
 
 
 
